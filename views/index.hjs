@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <h1>{{ title }} Page</h1>
+    <div id="mod1"></div>
+
+    <script src="/common.js"></script>
+    <script src="/index.js"></script>
+  </body>
+</html>

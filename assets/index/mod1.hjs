@@ -1,0 +1,3 @@
+<p>name: {{name}}</p>
+<p>sex: {{sex}}</p>
+<p>age: {{age}}</p>
